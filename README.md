@@ -1,5 +1,5 @@
 <h1 align="center"> Challenge Conversor de Monedas </h1>
-![Imagen del proyecto final](https://github.com/user-attachments/assets/bacc70fa-0d92-46fc-85a0-da110255dc67)
+
 <p align="left">
    <img src="https://img.shields.io/badge/STATUS-PRESENTACION%20FINAL-green">
    </p>
